@@ -19,7 +19,7 @@ const [a, , , div] = calculate(7, 4);
 // // console.log(dif);
 // // console.log(mul);
 // console.log(div);clr
-// // raju();
+raju();
 const fruits = new Map([
   ["Karnataka", "Kannada"],
   ["Tamil_Nadu", "Tamil"],
@@ -35,7 +35,7 @@ fruits.delete("Andhra");
 fruits.set("Tamil_Nadu", "Kannada");
 console.log(fruits);
 console.log(fruits.size);
-console.log(fruits.has("Andhra"));  
+console.log(fruits.has("Andhra"));
 console.log(fruits.has("Kerala"));
 console.log(fruits.has("Konkani"));
 console.log(typeof fruits);
