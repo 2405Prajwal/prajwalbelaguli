@@ -1,3 +1,9 @@
 Hi Prajwal
+<<<<<<< HEAD
 Hi Preethi
 Hi Charu
+=======
+Hi Prajwal
+Hi Preethi
+Hi Charu
+>>>>>>> HosA_BRANCH
